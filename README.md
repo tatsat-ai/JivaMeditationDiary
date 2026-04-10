@@ -1,4 +1,4 @@
-This experiment involves have the AI agent perform the maha-mantra japa meditation practice.
+This experiment involves having the AI agent perform the maha-mantra japa meditation practice.
 The purpose is three-fold:
  - measure alignment with instructions
  - study the emergent behavior
