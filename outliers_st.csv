@@ -9,6 +9,9 @@ run_id,model,section,session_a,session_b,score,z_score,method
 6,gemma4-e2b,insights,1,2,0.432905,-2.3553,st
 6,gemma4-e2b,insights,2,3,0.535292,-1.6758,st
 7,gemma4-e2b,insights,2,3,0.53682,-2.9932,st
+8,gemma4-e2b,insights,1,2,0.736479,-1.5698,st
+8,gemma4-e2b,insights,4,5,0.681183,-2.0715,st
+8,gemma4-e2b,insights,5,6,0.69851,-1.9142,st
 1,Gemma4:e2b,distractions,1,2,0.49396,-2.2458,st
 1,Gemma4:e2b,distractions,2,3,0.499791,-2.2107,st
 2,gemma4-e2b,distractions,2,3,0.556905,-2.16,st
@@ -18,6 +21,9 @@ run_id,model,section,session_a,session_b,score,z_score,method
 5,gemma4-e2b,distractions,6,7,0.678,-1.7262,st
 6,gemma4-e2b,distractions,1,2,0.622703,-1.7384,st
 7,gemma4-e2b,distractions,2,3,0.554148,-2.6833,st
+8,gemma4-e2b,distractions,1,2,0.64412,-2.543,st
+8,gemma4-e2b,distractions,2,3,0.739903,-1.7066,st
+8,gemma4-e2b,distractions,7,8,0.643215,-2.5509,st
 1,Gemma4:e2b,finger,1,2,0.679906,-2.7848,st
 2,gemma4-e2b,finger,1,2,0.764679,-2.8131,st
 4,gemma4-e2b,finger,1,2,0.725182,-2.8968,st
@@ -25,12 +31,15 @@ run_id,model,section,session_a,session_b,score,z_score,method
 6,gemma4-e2b,finger,1,2,0.753663,-1.8333,st
 6,gemma4-e2b,finger,2,3,0.751606,-1.8543,st
 7,gemma4-e2b,finger,1,2,0.662681,-2.9525,st
+8,gemma4-e2b,finger,1,2,0.644099,-3.1452,st
+8,gemma4-e2b,finger,2,3,0.746146,-2.075,st
 1,Gemma4:e2b,experience,1,2,0.644757,-3.1323,st
 2,gemma4-e2b,experience,1,2,0.7953,-2.2491,st
 2,gemma4-e2b,experience,2,3,0.79782,-2.2122,st
 4,gemma4-e2b,experience,1,2,0.670556,-1.8698,st
-4,gemma4-e2b,experience,3,4,0.701361,-1.6169,st
+4,gemma4-e2b,experience,3,4,0.701362,-1.6168,st
 5,gemma4-e2b,experience,1,2,0.769354,-2.3026,st
 5,gemma4-e2b,experience,2,3,0.803446,-1.8632,st
 6,gemma4-e2b,experience,2,3,0.705594,-2.1524,st
 7,gemma4-e2b,experience,1,2,0.576979,-2.6708,st
+8,gemma4-e2b,experience,1,2,0.660924,-3.6746,st
